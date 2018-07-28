@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LKLocalization
+
+  Created by Leela Prasad on 18/05/18.
+  Copyright © 2018 Leela Prasad. All rights reserved.
+*/
+
+"Next" = "Next";
+"welcome" = "welcome";
+"New Delhi" = "New Delhi";
+"Press Back Button to go back" = "Press Back Button to go back";
+"Change Language" = "Change Language";

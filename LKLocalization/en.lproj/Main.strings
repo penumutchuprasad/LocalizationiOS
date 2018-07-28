@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "IOW-cR-pYj"; */
+"IOW-cR-pYj.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "welcome"; ObjectID = "Shd-9l-8lw"; */
+"Shd-9l-8lw.text" = "welcome";
+
+/* Class = "UIButton"; normalTitle = "New Delhi"; ObjectID = "Sl0-vK-wzt"; */
+"Sl0-vK-wzt.normalTitle" = "New Delhi";
+
+/* Class = "UILabel"; text = "Press Back Button to go back"; ObjectID = "dDR-Vx-2VS"; */
+"dDR-Vx-2VS.text" = "Press Back Button to go back";
+
+/* Class = "UIButton"; normalTitle = "Change Language"; ObjectID = "j8m-qd-ImH"; */
+"j8m-qd-ImH.normalTitle" = "Change Language";
